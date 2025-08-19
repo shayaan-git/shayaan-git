@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Mohd Shayaan (he/him)
  
-- 👨🏻‍🎓 I'm looking for good projects to contribute in.
-- 🌱 I'm currently learning React
+- ♟ I'm looking for good projects to contribute in.
+- 🌱 Learning & Growing in this Matrix
 - 📫 Reach me at: mshayaan24@gmail.com
 
 ---
