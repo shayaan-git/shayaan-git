@@ -11,10 +11,10 @@
 ### 💬 Connect with me:
 <div id="badges">
   <a href="https://github.com/shayaan-git">
-    <img src="https://img.icons8.com/?size=100&id=efFfwotdkiU5&format=png&color=000000" alt="Github Badge" height="70" width="70"/>
+    <img src="https://img.icons8.com/?size=100&id=s1rwrv9mNnN4&format=png&color=000000" alt="Github Badge" height="70" width="70"/>
   </a>
   <a href="https://www.linkedin.com/in/mohdshayaan">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn Badge" height="70" width="70"/>
+    <img src="https://img.icons8.com/?size=100&id=x5tasEH8x4uG&format=png&color=000000" alt="LinkedIn Badge" height="70" width="70"/>
   </a>
 </div>
 
