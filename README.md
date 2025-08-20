@@ -21,7 +21,7 @@
 ---
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdshayaan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mshayaan24) <img src="https://komarev.com/ghpvc/?username=shayaan-git&label=Profile%20views&color=0e75b6&style=flat" alt="PROFILE-VIEW" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdshayaan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mshayaan24) [![Github](https://img.shields.io/github/followers/shayaan-git?label=Follow&style=social)](https://github.com/shayaan-git) <img src="https://komarev.com/ghpvc/?username=shayaan-git&label=Profile%20views&color=0e75b6&style=flat" alt="PROFILE-VIEW" />
 
 
 ### Languages and Tools:
@@ -44,11 +44,3 @@
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
 </div>
 <p> 
- 
-<!-- <img height="130" width="130" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Bonfire-gif"/> -->
-
-<!-- ### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=shayaan-git&icon=0&color=0)](https://visitcount.itsvg.in) -->
