@@ -22,15 +22,14 @@
   
 </details>
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdshayaan) -->
 ---
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=shayaan-git&theme=react&hide_border=true&show_icons=true" /> <img width="47%" align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="paet-paet"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=shayaan-git&theme=react&hide_border=true&show_icons=true" /><img width="37%" align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="paet-paet"/>
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayaan-git&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /> 
 <br/>
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=shayaan-git&theme=dark" />
 
  
-[![shayaan-git's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shayaan-git&bg_color=151515&color=dadada&line=ffffff&point=00473c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![shayaan-git's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shayaan-git&bg_color=0D1117&color=dadada&line=FCA601&point=00473c&area=true&hide_border=true)](https://github.com/shayaan-git/github-readme-activity-graph)
   **Let's build something amazing together!** 
 
 <div align="center">
