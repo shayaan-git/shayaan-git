@@ -1,6 +1,6 @@
 ## **Hi** 👋🏻, **I'm Shayaan**
-- ♟ I'm looking for good projects to contribute in.
-- 📫 Reach me at: mshayaan24@gmail.com
+- 📫 Reach me at: mohdshayaan.work@gmail.com
+- ♟ Looking for exciting projects to contribute in
 
 ---
 
