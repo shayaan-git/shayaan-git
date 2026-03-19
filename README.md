@@ -1,14 +1,18 @@
 ## **Hi** 👋🏻, **I'm Shayaan**
 - 📫 Reach me at: mohdshayaan.work@gmail.com
-- ♟ Looking for exciting projects to contribute in
+- ♟ Looking for exciting projects to contribute
 
 ---
 
-<details>
- <summary><strong>Languages and Tools:</strong></summary>
+<!-- <details> -->
+<!-- <summary> -->
+  <!-- <strong> -->
+   Languages and Tools:
+  <!-- </strong> -->
+ <!-- </summary> -->
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,react,nodejs,mongodb,threejs,github,gcp,figma,html,css,visualstudio)](https://skillicons.dev)
-</details>
+[![My Skills](https://skillicons.dev/icons?i=js,py,react,nodejs,express,npm,mongodb,threejs,git,github,figma,html,css,scss,tailwindvscode,notion,php,postman,discord)](https://skillicons.dev)
+<!-- </details> -->
 
 
 <details>
@@ -25,6 +29,7 @@
 ---
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shayaan-git&theme=react&hide_border=true&show_icons=true" /><img width="37%" align="right" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" alt="paet-paet"/>
+
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayaan-git&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" /> 
 <br/>
 
@@ -33,8 +38,6 @@
   **Let's build something amazing together!** 
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
 </div>
 <p> 
